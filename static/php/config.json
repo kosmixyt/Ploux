@@ -1,0 +1,40 @@
+{
+"miniadir": "/plex/minia/",
+"filmsdir": "/plex/films/",
+"encoder":{
+
+"standalone":[
+
+    {
+        "quality":{"weight":1920,"height":1080},
+        "bitrate":10000
+        
+        
+        },
+        {
+            "quality":{"weight":"","height":""},
+            "bitrate":0
+        
+        
+        },
+        {
+        
+        
+        
+            "quality":{"weight":"","height":""},
+            "bitrate":0
+        }
+
+
+
+],
+"default_encoder_live":"live",
+"":""
+
+
+}
+
+
+}
+
+

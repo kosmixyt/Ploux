@@ -1,0 +1,12 @@
+{
+    "require": {
+        "php-http/cache-plugin": "^1.7",
+        "php-tmdb/api": "^4",
+        "symfony/event-dispatcher": "^5.3",
+        "guzzlehttp/guzzle": "^7.3",
+        "symfony/cache": "^5.3",
+        "monolog/monolog": "^2.3",
+        "nyholm/psr7": "^1.4",
+        "vfalies/tmdb": "^1.12"
+    }
+}
