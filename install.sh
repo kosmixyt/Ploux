@@ -1,0 +1,1 @@
+apt update && apt upgrade && apt-get install apache2 php php-mysqli ffmpeg composer git && cd /var/www/ & rm -fr html && git clone https://github.com/kosmixyt/Ploux.git && mv Ploux html && mdkir /plex && mkdir /plex/films/ && mkdir /plex/minia/ && chmod 777 /plex/minia/ && chmod 777 /plex/films/
